@@ -37,4 +37,4 @@ do {
   //   } else break;
   // }
 } while (stage > 1);
-console.log("Gave Over");
+console.log("Game Over");
